@@ -1,0 +1,10 @@
+C:\Users\John\Desktop\RawPrinter-src\vs2003\WindowsApplication2\WindowsApplication2\obj\Release\RawPrinter.exe
+C:\Users\John\Desktop\RawPrinter-src\vs2003\WindowsApplication2\WindowsApplication2\bin\RawPrinter.exe
+C:\Users\John\Desktop\RawPrinter-src\vs2003\WindowsApplication2\WindowsApplication2\bin\RawPrinter.xml
+C:\Users\John\Desktop\RawPrinter-src\vs2003\WindowsApplication2\WindowsApplication2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\John\Desktop\RawPrinter-src\vs2003\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.Form1.resources
+C:\Users\John\Desktop\RawPrinter-src\vs2003\WindowsApplication2\WindowsApplication2\obj\Release\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\John\Desktop\RawPrinter-src\vs2003\WindowsApplication2\WindowsApplication2\obj\Release\RawPrinter.xml
+C:\Users\John\Desktop\RawPrinter-src\vs2003\WindowsApplication2\WindowsApplication2\bin\RawPrinter.exe.config
+C:\Users\John\Desktop\RawPrinter-src\vs2003\WindowsApplication2\WindowsApplication2\bin\RawPrinter.pdb
+C:\Users\John\Desktop\RawPrinter-src\vs2003\WindowsApplication2\WindowsApplication2\obj\Release\RawPrinter.pdb
